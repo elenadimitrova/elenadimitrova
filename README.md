@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-💻 My name is Elena and I am a Solidity developer with 25 years of experience in software engineering of which 6 years in Ethereum. The Homestead hardfork coincided with my first official day at work - 14th March 2016.
+💻 My name is Elena and I am a Solidity developer with 25 years of experience in software engineering of which 6 in Ethereum. Fun fact - the Homestead hardfork coincided with my first official day at work - 14th March 2016 💥 
 
-🔭 When not writing Solidity code or helping grow the Ethereum community, I take interest in dancing, stargazing and making bread. Contributed original work on parameterized transaction reviews and upgradability of smart contracts. Presented at DevCon and TruffleCon events.
+I am currently working on a freelance basis only. Blog post here explains my arguments in more detail
+https://medium.com/@elena_gesheva/retrospective-of-25-years-life-at-work-740fd813e5ad
+
+🔭 When not writing Solidity or helping grow the Ethereum community, I spend time dancing, stargazing and cooking. Contributed original work on parameterized transaction reviews and upgradability of smart contracts. Presented at DevCon and TruffleCon events.
+
+🐝 Currently building the [0x](https://www.0x.org/) governance protocol.
 
 🌱 Previously I have helped build:
 
