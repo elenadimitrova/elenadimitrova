@@ -12,7 +12,8 @@ https://medium.com/@elena_gesheva/retrospective-of-25-years-life-at-work-740fd81
 🌱 Previously I have helped build:
 
 - [Sound](https://github.com/soundxyz/sound-protocol)
-Contributed to the redesign of the sound protocol providing flexible yet efficient NFT drop creation and royalties distribution for  artists.
+
+Contributed to the [redesign of the sound protocol](https://twitter.com/soundxyz_/status/1572633595818422272) providing flexible and efficient NFT drop creation and royalties distribution for  artists.
 
 - [Optimism](https://www.optimism.io/)
 
