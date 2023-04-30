@@ -11,7 +11,9 @@ https://medium.com/@elena_gesheva/retrospective-of-25-years-life-at-work-740fd81
 
 🌱 Previously I have helped build:
 
-- Decentralised governance of [0x](https://www.0x.org/) Protocol and Treasury. This was enabled via a wrapped ZRX token and a Compound-like governors design implemented in PR https://github.com/0xProject/protocol/pull/641 
+- [0x](https://www.0x.org/) 
+
+Decentralised governance of 0x Protocol and Treasury. This was enabled via a wrapped ZRX token and a Compound-like governors design including a novell hybrid quadratic voting mechanism, implemented in PR https://github.com/0xProject/protocol/pull/641 
 [0x improvement proposal details for the implementation](https://forum.0xprotocol.org/t/zeip-95-migrating-0x-protocol-to-on-chain-governance-process/3513)
 
 - [Sound](https://github.com/soundxyz/sound-protocol)
